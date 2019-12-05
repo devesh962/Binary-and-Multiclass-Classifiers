@@ -2,7 +2,7 @@
 Image Classification Using Binary and Multiclass Image Classifiers
 
 
-# Binary-Classification-happy-sad
+ **Binary-Classification-happy-sad
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/146usoz3PE6xfjd1aXdvL_MH-GGMCOeEN)
 
@@ -11,7 +11,7 @@ Classification of Happy-Sad face using Convolutional Neural Network with 9 layer
 Run the smile.py file on Google Colab or Jupyter Notebook.
 
 
-# Binary-Classification
+ **Binary-Classification-horse-human
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QgRcJAfrADRVsUXsPWqvN5M6a386INhX)
 
@@ -25,7 +25,7 @@ The training Accuracy of the model is 99.8%.
 Run the horses_humans_transfer_learning.py file on Google Colab or Jupyter Notebook.
 
 
-# Binary-Classification-cat-dogs
+**Binary-Classification-cat-dogs
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_mwoHgo6vXOiFgtA1QoAdVaNr5AHfo2n)
 
@@ -44,7 +44,7 @@ Run the cat_and_dog.py file in Google Colab or Jupyter Notebook.
 The second kaggle_augmented_code.py file consist of same code but the dataset used is taken from Kaggle.
 
 
-# Mutliclass-Classifier
+ **Mutliclass-Classifier
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TYI57udcLuzXPvHC93T3ryTw3izgNIWJ)
 
